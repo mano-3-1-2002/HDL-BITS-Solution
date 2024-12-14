@@ -1,4 +1,4 @@
-dule top_module(
+mdule top_module(
     input a, 
     input b,
     output wire out_assign,
