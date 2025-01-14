@@ -33,7 +33,7 @@ module top_module(
         	end
         endcase
              
-    /// State transition logic: next_state = f(state, in)
+    // State transition logic: next_state = f(state, in)
 
     assign out = (state == D)?1:0;
 
